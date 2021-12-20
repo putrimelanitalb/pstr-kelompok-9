@@ -27,7 +27,7 @@ void setup() {
   // Set output sensor sebagai input
   pinMode(sensorOut, INPUT);
   
-  // Set Pulse Width scaling menjadi 20%
+  // Set Pulse Width scaling
   digitalWrite(S0,HIGH);
   digitalWrite(S1,LOW);
 
